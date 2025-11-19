@@ -29,6 +29,7 @@ Meu foco é transformar dados em informações úteis, automatizar tarefas repet
 Fique à vontade para explorar os projetos disponíveis aqui no repositório.
 
 📫 **Contato**
+
 LinkedIn: [https://www.linkedin.com/in/miguel-moura-779b45267/](https://www.linkedin.com/in/miguel-moura-779b45267/)
 
 Email: mvmoura2004@gmail.com
